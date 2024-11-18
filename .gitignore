@@ -2,4 +2,5 @@ Data/
 Output/
 Classification_task/*.csv
 Classification_task/*.pptx
+Classification_task/*.zip
 Classification_task/catboost_info/*
